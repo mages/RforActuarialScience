@@ -2,7 +2,7 @@
 
 Welcome to the Actuarial R Working Group and many thanks for your interest! 
 
-Here are some initial draft aims for the R working group ):
+Here are some initial draft aims for the R working group:
 
 Create a R introduction document, using existing material from:
 
