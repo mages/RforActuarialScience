@@ -27,4 +27,4 @@ Conferences:
 More ambitious ideas, depending on skill level, interest in the group:
 
 -	Replicate output from research articles in R
--	Replace example in the [A Practitioner’s Introduction to Stochastic Reserving paper](http://mages.github.io/PSRWP/) with R
+-	Replace examples in the [A Practitioner’s Introduction to Stochastic Reserving paper](http://mages.github.io/PSRWP/) with R
