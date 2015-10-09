@@ -19,6 +19,7 @@ Curate links to resources, e.g.
 
 Mailing list:
 -	[R Special Interest Group Insurance](https://stat.ethz.ch/mailman/listinfo/r-sig-insurance)
+
 Ideas to deal with your IT department:
 -	[An Actuarial Toolkit (2006)](http://toolkit.pbwiki.com/f/GIRO%20Paper%20FINAL.doc)
 
