@@ -31,5 +31,5 @@ More ambitious ideas, depending on skill level, interest in the group:
 -	Replace examples in the [A Practitioner’s Introduction to Stochastic Reserving paper](http://mages.github.io/PSRWP/) with R
 
 Other initiatives
-- [Open-Source Software Committee, Casualty Actuarial Society](http://opensourcesoftware.casact.org/) 
-- 
+ - [Open-Source Software Committee, Casualty Actuarial Society](http://opensourcesoftware.casact.org/) 
+ 
