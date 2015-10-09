@@ -13,9 +13,9 @@ Create a R introduction document, using existing material from:
 Curate links to resources, e.g.
 
 - Books:  
-  +	[Modern Actuarial Risk Theory using R](http://www.springer.com/us/book/9783540709923)
-  +	[Computational Actuarial Science with R](https://www.crcpress.com/Computational-Actuarial-Science-with-R/Charpentier/9781466592599)
-  +	[Stochastic Claims Reserving Manual: Advances in Dynamic Modeling](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2649057)
+  +	[Modern Actuarial Risk Theory using R](http://www.springer.com/us/book/9783540709923), Kaas, R., Goovaerts, M., Dhaene, J., Denuit, M
+  +	[Computational Actuarial Science with R](https://www.crcpress.com/Computational-Actuarial-Science-with-R/Charpentier/9781466592599), edited by Arthur Charpentier
+  +	[Stochastic Claims Reserving Manual: Advances in Dynamic Modeling](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2649057), Mario Wüthrich and Michael Merz 
 
 Mailing list:
 -	[R Special Interest Group Insurance](https://stat.ethz.ch/mailman/listinfo/r-sig-insurance)
