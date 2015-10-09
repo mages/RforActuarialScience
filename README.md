@@ -6,7 +6,7 @@ Here are some initial draft aims for the R working group:
 
 Create a R introduction document, using existing material from:
 
--	[Introduction to R for Actuaries](http://toolkit.pbwiki.com/f/R%20Examples%20for%20Actuaries%20v0.1-1.pdf) by Neigel de Silva
+-	[Introduction to R for Actuaries](http://toolkit.pbwiki.com/f/R%20Examples%20for%20Actuaries%20v0.1-1.pdf) by Nigel de Silva
 -	[Formatted Actuarial Vignettes in R](http://www.favir.net/) by Ben Escoto
 - [ChainLadder package vignette and documentation](https://cran.r-project.org/web/packages/ChainLadder/vignettes/ChainLadder.pdf)
 
@@ -27,6 +27,9 @@ Conferences:
 
 
 More ambitious ideas, depending on skill level, interest in the group:
-
 -	Replicate output from research articles in R
 -	Replace examples in the [A Practitioner’s Introduction to Stochastic Reserving paper](http://mages.github.io/PSRWP/) with R
+
+Other initiatives
+- [Open-Source Software Committee, Casualty Actuarial Society](http://opensourcesoftware.casact.org/) 
+- 
